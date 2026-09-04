@@ -1,0 +1,28 @@
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+*.log
+
+# Gradle
+.gradle/
+build/
+local.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Fichiers ignore
+*.docx
+*.md
+*.pptx
+*.mp4
+*.zip
