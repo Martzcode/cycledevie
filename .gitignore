@@ -23,6 +23,7 @@ Thumbs.db
 # Fichiers ignore
 *.docx
 *.md
+!README.md
 *.pptx
 *.mp4
 *.zip
